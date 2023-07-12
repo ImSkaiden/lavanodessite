@@ -13,54 +13,66 @@
 }
 
 .u-section-1 .u-shape-2 {
-  width: 836px;
-  height: 836px;
+  width: 750px;
+  height: 750px;
   background-image: none;
-  margin: -1204px -205px 0 auto;
+  margin: -1458px -128px 0 auto;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: -541px 0 0 auto;
+  font-size: 1.875rem;
+  margin: -102px 0 0 auto;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
-  font-size: 1.875rem;
-  margin: 20px 0 0 auto;
+  font-size: 2.25rem;
+  margin: 54px auto 0 36px;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
-  font-size: 2.25rem;
-  margin: 54px auto 60px 36px;
+  margin: -885px 0 60px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-shape-1 {
-    margin-top: 145px;
+    margin-top: 269px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -1469px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -528px;
+    margin-top: -442px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -467px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-shape-1 {
     width: 720px;
-    margin-top: 202px;
+    margin-top: 326px;
     margin-left: 0;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -585px;
+    margin-top: -499px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -524px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 703px;
+    min-height: 789px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -71,11 +83,13 @@
   .u-section-1 .u-shape-2 {
     width: 540px;
     height: 540px;
+    margin-top: -1345px;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 164px;
+    font-size: 1rem;
+    margin-top: 236px;
   }
 
   .u-section-1 .u-text-2 {
@@ -83,13 +97,13 @@
   }
 
   .u-section-1 .u-text-3 {
-    font-size: 1rem;
+    margin-top: 139px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 503px;
+    min-height: 589px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -103,7 +117,11 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 377px;
+    margin-top: 436px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 66px;
   }
 }.blur {
 -webkit-filter: blur(10px);
